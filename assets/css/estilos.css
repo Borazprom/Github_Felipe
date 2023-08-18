@@ -9,10 +9,11 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
+  background-attachment: fixed;
 }
 
 /* Mis trabajos */
-
+ 
 #Mis-trabajos{
     background-color: #4477CE;
 }
